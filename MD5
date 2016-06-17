@@ -1,0 +1,9 @@
+c43341da5c509f4dbf70135cb5e3dcf0 *DESCRIPTION
+9afa470c539f1aa5aec74ca06a096ec1 *NAMESPACE
+21817ff151c721459b40b7eba5cd092a *R/check_pkg.R
+c55f7742309dcd1345989b504208ee77 *R/check_r.R
+530f0e1d7acfc4f877f7d51fe7d5999d *R/update_all.R
+7d8b2685355a86d59564e2f07677e311 *man/check_bioc.Rd
+796b62e39186433067ee53bc7b0e2234 *man/check_cran.Rd
+63b55959249b165a58436173ceb57d91 *man/check_r.Rd
+42ba903b2ff8745e412987ce3100084c *man/update_all.Rd
