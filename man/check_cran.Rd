@@ -9,6 +9,9 @@ check_cran(pkg)
 \arguments{
 \item{pkg}{package name}
 }
+\value{
+list
+}
 \description{
 check latest release version of cran package
 }
