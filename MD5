@@ -1,10 +1,10 @@
-3b6185673290c14642f07d0965990fcc *DESCRIPTION
-33790249bf58a6fcb1a48136027c9a81 *NAMESPACE
-0928cc60b89ed5a7f8c1e5707a9d0021 *NEWS.md
+a19478d3f5751159b4cdf4e89ac207f4 *DESCRIPTION
+f8bf8ddf0c2322cb6b98ccc590d3f34c *NAMESPACE
+0f8d76968b99f5735b2f91f017975708 *NEWS.md
 28b75a57d6bb79edcdad40c2af66e931 *R/check_pkg.R
 579e75e5a7e38f0c82283d6e7170c69c *R/check_r.R
-dfe7bd9e3b84002a0447a6b44dc290e2 *R/update_all.R
-5fd86b5eff270c016d7e5a2d64cc7486 *R/utilities.R
+eaf2c80583707dcc0d25fd1de3d6700d *R/update_all.R
+036839fc01a78636c42dc8f9f4424721 *R/utilities.R
 5b44bb461b75fdd935b50f957dba037d *man/check_bioc.Rd
 4121c4c5c0bf06e869d7d671b07c9523 *man/check_cran.Rd
 65b124757e5b0970ddf5b209f45ee695 *man/check_github.Rd
@@ -12,6 +12,7 @@ cb2636045e9a47e1bc198b3f7dac0d7e *man/check_gitlab.Rd
 b7181cf9c8b712ebc8e4c2fc92e872ed *man/check_r.Rd
 8a10f6bd7b9f9c31704d62ce47467269 *man/get_aes_var.Rd
 9adcb3b4c8a86c9dfbb3c1c6d540b9a1 *man/get_fun_from_pkg.Rd
+47692c1f56d7a0fe737b084e6caccfaa *man/is.installed.Rd
 906fcb53ca9104a40df63e5fafff801a *man/o.Rd
 f9609edc2d7d933894605877132d9110 *man/read.cb.Rd
-8253f8c45781f058c21119bc26c11961 *man/update_all.Rd
+e253ce2bdc66f9ef59503a5c16fd4df1 *man/update_all.Rd
