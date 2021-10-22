@@ -1,12 +1,14 @@
-1c2988a7308e3e1e0dec4ddbed678739 *DESCRIPTION
-114cd3ec6ff95cb860f275c35e932b44 *NAMESPACE
+06afce936f8c83ab44c2095882d2cf09 *DESCRIPTION
+c6c540ea56c79be2db189c7b26de8803 *NAMESPACE
 6b97499d2c76787c19d2f21f05e57faf *NEWS.md
 28b75a57d6bb79edcdad40c2af66e931 *R/check_pkg.R
 579e75e5a7e38f0c82283d6e7170c69c *R/check_r.R
+4e1b8039fb90689d32b47a78d7c7deb1 *R/reexports.R
 c6c235d6b79cfe05c0604d4b07a92c56 *R/update_all.R
 5b44bb461b75fdd935b50f957dba037d *man/check_bioc.Rd
 4121c4c5c0bf06e869d7d671b07c9523 *man/check_cran.Rd
 65b124757e5b0970ddf5b209f45ee695 *man/check_github.Rd
 cb2636045e9a47e1bc198b3f7dac0d7e *man/check_gitlab.Rd
 b7181cf9c8b712ebc8e4c2fc92e872ed *man/check_r.Rd
+25ab07884a37a4d79e841402a716014b *man/reexports.Rd
 f519173efa93b8a7118d078621325648 *man/update_all.Rd
